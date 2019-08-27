@@ -58,4 +58,4 @@ _This course is a 100 day practice. The first month will cover documentation and
 ## Lessons
   - Day 1: Introductions
     - On the first day we introduce the class, the rules, the raffle system, and play a drawing game
-      -[Slides](https://docs.google.com/presentation/d/13dtwujIPj3cJSgfhSGgEWPCQy7KMBJnPA9nQaRe_HbM/edit?usp=sharing)
+      - [Slides](https://docs.google.com/presentation/d/13dtwujIPj3cJSgfhSGgEWPCQy7KMBJnPA9nQaRe_HbM/edit?usp=sharing)
