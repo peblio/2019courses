@@ -1,10 +1,14 @@
 # 2019courses
-- 100 days of making
-- p5js
-- CS50
-- Coding Bootcamp
-- 3-5 digital Literacy
-- 6-8 Programming 
+  - [Folder with Slides MHS](https://drive.google.com/drive/u/0/folders/1yIm1snxDvqOq_VqadOcOrGsVQ_WFjmmp)
+  - [Folder with Slides YDE](https://drive.google.com/drive/u/0/folders/1u9VU0qjnDtjR9PAs6riXZgXiSeFqxyJw)
+  - Course Syllabi 
+    - [CS50](https://demo.peblio.co/pebl/AtBVHuBM1)
+    - [p5js](https://demo.peblio.co/pebl/qBk6oSpzj)
+    - [100 days of making](https://demo.peblio.co/pebl/88jajNaYo)
+    - [Coding Bootcamp](https://demo.peblio.co/pebl/TEG8ct8r2)
+    - [3-5 digital Literacy](https://demo.peblio.co/pebl/wV526TTlN)
+    - [6-8 Programming ](https://demo.peblio.co/pebl/KYM_uykbi)
+
 
 # CS50
 _This course is adapted from Harvard's CS50 course and their AP adaptation. The course is divided into 1 period lecture and 1 period of recitation each following following the initial introduction. They will have homework due every Tuesday which will be an entry in their running blog which they will maintain on Peblio. They will either summarize a news story, or an assigned video. _
