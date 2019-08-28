@@ -58,6 +58,7 @@ _This course is a 100 day practice. The first month will cover documentation and
 ## Class Resources
 - [Summer Homework Instructions](https://drive.google.com/open?id=1coS9EIGSGqqoGERiFgser3m6INVqC339&authuser=2)
 - [Exit Slip](https://forms.gle/4bseTk6XJSNDhes18)
+- [Web Dev Guide](https://demo.peblio.co/pebl/AS8oXD8AE)
 
 ## Lessons
 - Day 1: Introductions
