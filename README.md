@@ -52,6 +52,7 @@ _This course is a 100 day practice. The first month will cover documentation and
 - [Full Stack Intro](https://learn.fullstackacademy.com/workshop)
 - [Microsoft Exam Info](https://www.microsoft.com/en-us/learning/exam-98-382.aspx)
 - [Peblio Syllabus](https://demo.peblio.co/pebl/TEG8ct8r2)
+- [Coding Space Projects](https://coding.space/web/)
 
     
 ## Class Resources
