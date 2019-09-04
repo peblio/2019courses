@@ -66,6 +66,13 @@ _This course is a 100 day practice. The first month will cover documentation and
     - [Slides](https://docs.google.com/presentation/d/11q_wBOs9L_yfP9gNFeYqRBZRVfD3plMQm43eJA-xFrU/edit?usp=sharing)
     - [Peblio Porfolio Worksheet](https://demo.peblio.co/pebl/41pnMKdAz)
     - [Day 1 Form](https://forms.gle/pxEWGZJuMCBQQMxb7)
+- Day 2: Hidden Messages
+  - This lesson introduces innerHTML and connects HTML, CSS and JS. Students work on a hidden messages project to change HTML elements based on user events. 
+    - [Slides](https://docs.google.com/presentation/d/1OaNthFg7w6kmubYPeQXJxZsLGKe0pDno9f-NxDH0Qeo/edit?usp=sharing)
+    - [Worksheet](https://demo.peblio.co/pebl/GWxyJbsfS)
+- Day 3: Values and Types 
+  - Description
+    - [Slides](https://docs.google.com/presentation/d/1pdFJ6dzjCPPmu3cWGhdl9yiJeacEnBsc8Ffvc_o_TMg/edit#slide=id.p)
  
 # 6-8 Programming
 ## Planning Resources
