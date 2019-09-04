@@ -64,7 +64,7 @@ _This course is a 100 day practice. The first month will cover documentation and
 - Day 1: Introductions
   - The goal is introductions and review the summer homework. They should start on a portfolio project that showcases any work of theirs. We'll use this class to get a better idea of where the class is with HTML and CSS. 
     - [Slides](https://docs.google.com/presentation/d/11q_wBOs9L_yfP9gNFeYqRBZRVfD3plMQm43eJA-xFrU/edit?usp=sharing)
-    - [Peblio Porfolio Worksheet]()
+    - [Peblio Porfolio Worksheet](https://demo.peblio.co/pebl/41pnMKdAz)
     - [Day 1 Form](https://forms.gle/pxEWGZJuMCBQQMxb7)
  
 # 6-8 Programming
