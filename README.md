@@ -17,6 +17,8 @@
 _This course is adapted from Harvard's CS50 course and their AP adaptation. The course is divided into 1 period lecture and 1 period of recitation each following following the initial introduction. They will have homework due every Tuesday which will be an entry in their running blog which they will maintain on Peblio. They will either summarize a news story, or an assigned video._
 ## Planning Resources
 - [CS50 Sandbox](https://sandbox.cs50.io/)
+- [College Course Site](https://ap.cs50.school/curriculum/)
+- [AP Course Site](https://teachcsnyc.github.io/cs50/)
 
 ## Class Resources
 - [Peblio Syllabus](https://demo.peblio.co/pebl/AtBVHuBM1)
